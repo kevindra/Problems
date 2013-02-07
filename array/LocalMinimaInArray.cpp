@@ -40,12 +40,12 @@ int localMinima(int a[], int s, int e, int n) {
 		return localMinima(a, s, mid - 1, n);
 	return localMinima(a, mid + 1, e, n);
 }
-int main() {
-	int a[] = {1,3,5,7,9,11,10,1,8,1}, n = 10;
-
-	int lm = localMinima(a, 0, n-1, n);
-	if(lm == -1) cout<<"Couldn't find any local minima in the array";
-	else cout <<" Found local minima at: a[" << lm << "] = " << a[lm];
-	return 0;
-}
-
+//int main() {
+//	int a[] = {1,3,5,7,9,11,10,1,8,1}, n = 10;
+//
+//	int lm = localMinima(a, 0, n-1, n);
+//	if(lm == -1) cout<<"Couldn't find any local minima in the array";
+//	else cout <<" Found local minima at: a[" << lm << "] = " << a[lm];
+//	return 0;
+//}
+//
