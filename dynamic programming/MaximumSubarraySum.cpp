@@ -38,11 +38,11 @@ int maxSubarraySumKadane(int *a, int n) {
 	return max_overall;
 }
 
-int main() {
-	int a[] = { 1, -2, 3 }, n = 3;
-
-	cout << "Max subarray sum DP: " << maxSubarraySum(a, n) << endl;
-	cout << "Max subarray sum Kadane: " << maxSubarraySumKadane(a, n) << endl;
-	return 0;
-}
+//int main() {
+//	int a[] = { 1, -2, 3 }, n = 3;
+//
+//	cout << "Max subarray sum DP: " << maxSubarraySum(a, n) << endl;
+//	cout << "Max subarray sum Kadane: " << maxSubarraySumKadane(a, n) << endl;
+//	return 0;
+//}
 
