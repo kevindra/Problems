@@ -45,7 +45,7 @@ int main() {
 
 	int lm = localMinima(a, 0, n-1, n);
 	if(lm == -1) cout<<"Couldn't find any local minima in the array";
-	else cout <<" Found local minima at: " + lm << " = " << a[lm];
+	else cout <<" Found local minima at: a[" << lm << "] = " << a[lm];
 	return 0;
 }
 
