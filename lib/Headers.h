@@ -9,5 +9,6 @@
 #define HEADERS_H_
 
 #include "../dynamic programming/MakingChange.cpp"
+#include "../dynamic programming/MaxIncreasingSubSeq.cpp"
 
 #endif /* HEADERS_H_ */

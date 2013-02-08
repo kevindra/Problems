@@ -7,8 +7,10 @@
 
 #include "Headers.h"
 
+#if 1
 int main() {
-	MakingChange app;
+	MaxIncreasingSubSeq app;
 	app.run();
 	return 0;
 }
+#endif
