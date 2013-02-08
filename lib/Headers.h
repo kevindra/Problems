@@ -12,5 +12,6 @@
 #include "../dynamic programming/MaxIncreasingSubSeq.cpp"
 
 #include "../trees/PhoneBookTrie.cpp"
+#include "../trees/BKTree.cpp"
 
 #endif /* HEADERS_H_ */
