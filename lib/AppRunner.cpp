@@ -9,7 +9,7 @@
 
 #if 1
 int main() {
-	MaxIncreasingSubSeq app;
+	PhoneBookTrie app;
 	app.run();
 	return 0;
 }
