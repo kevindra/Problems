@@ -9,7 +9,7 @@
 
 #if 1
 int main() {
-	BKTree app;
+	Permuter app;
 	app.run();
 	return 0;
 }

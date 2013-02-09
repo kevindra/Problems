@@ -14,4 +14,6 @@
 #include "../trees/PhoneBookTrie.cpp"
 #include "../trees/BKTree.cpp"
 
+#include "../string/Permutation.cpp"
+
 #endif /* HEADERS_H_ */
