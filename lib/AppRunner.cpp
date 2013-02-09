@@ -9,7 +9,7 @@
 
 #if 1
 int main() {
-	Permuter app;
+	PermuteAllSequences app;
 	app.run();
 	return 0;
 }

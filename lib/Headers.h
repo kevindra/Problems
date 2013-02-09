@@ -16,4 +16,6 @@
 
 #include "../string/Permutation.cpp"
 
+#include "../misc/PermuteAllSequences.cpp"
+
 #endif /* HEADERS_H_ */

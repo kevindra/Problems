@@ -12,6 +12,7 @@ using namespace std;
 
 class Permuter {
 public:
+	// O(n!)
 	void permuteWithoutRepition(string s, unsigned int i) {
 		if (i == 0)
 			sort(s.begin(), s.end());
