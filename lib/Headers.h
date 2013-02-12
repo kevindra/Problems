@@ -17,5 +17,6 @@
 #include "../string/Permutation.cpp"
 
 #include "../misc/PermuteAllSequences.cpp"
+#include "../misc/PolynomialDerivative.cpp"
 
 #endif /* HEADERS_H_ */

@@ -12,7 +12,7 @@ using namespace std;
 
 class PermuteAllSequences {
 public:
-	void permuteAll(int *a, int n, int sum, vector<int> v) {
+	void permuteAll(int n, int sum, vector<int> v) {
 		if (sum == 0) {
 			for (unsigned int i = 0; i < v.size(); i++)
 				cout << v[i] << ",";
@@ -23,24 +23,20 @@ public:
 		if (sum < 0)
 			return;
 
-		for (int i = 0; i < n; i++) {
-			v.push_back(a[i]);
-			permuteAll(a, n, sum - a[i], v);
+		for (int i = 1; i < n; i++) {
+			v.push_back(i);
+			permuteAll(n, sum - i, v);
 			v.pop_back();
 		}
 	}
 
 	void permute(int n) {
-		int *a = new int;
-		for (int i = 0; i < n - 1; i++)
-			a[i] = i + 1;
-
 		vector<int> v;
-		permuteAll(a, n - 1, n, v);
+		permuteAll(n, n, v);
 	}
 
 	void run() {
-		permute(5);
+		permute(4);
 	}
 };
 

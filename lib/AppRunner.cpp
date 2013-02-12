@@ -9,7 +9,7 @@
 
 #if 1
 int main() {
-	PermuteAllSequences app;
+	PolynomialDerivative app;
 	app.run();
 	return 0;
 }
