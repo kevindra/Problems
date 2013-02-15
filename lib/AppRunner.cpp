@@ -15,7 +15,7 @@ using namespace std;
 
 #if 1
 int main() {
-	ConvertRational app;
+	PrintAllSubsets app;
 	app.run();
 	return 0;
 }

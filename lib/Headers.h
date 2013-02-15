@@ -10,6 +10,7 @@
 
 #include "../array/FindKthSmallestNumber.cpp"
 #include "../array/CountOccurancesOfANumInSortedArray.cpp"
+#include "../array/PrintAllSubsets.cpp"
 
 #include "../linkedlist/ReverseLinkedList.cpp"
 
