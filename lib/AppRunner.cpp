@@ -15,7 +15,7 @@ using namespace std;
 
 #if 1
 int main() {
-	FindKthSmallestNumber app;
+	ReverseLinkedList app;
 	app.run();
 	return 0;
 }
