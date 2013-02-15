@@ -15,7 +15,7 @@ using namespace std;
 
 #if 1
 int main() {
-	PrintAllValidCombinationsOfBrackets app;
+	ConvertRational app;
 	app.run();
 	return 0;
 }

@@ -28,4 +28,6 @@
 #include "../fb/CodingSystem.cpp"
 #include "../fb/CharactersSubstitution.cpp"
 
+#include "../numbers/ConvertRational.cpp"
+
 #endif /* HEADERS_H_ */
