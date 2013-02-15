@@ -6,10 +6,16 @@
  */
 
 #include "Headers.h"
+#include <iostream>
+#include <string>
+#include <map>
+#include <vector>
+
+using namespace std;
 
 #if 1
 int main() {
-	PolynomialDerivative app;
+	CharactersSubstitution app;
 	app.run();
 	return 0;
 }

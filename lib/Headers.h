@@ -19,4 +19,7 @@
 #include "../misc/PermuteAllSequences.cpp"
 #include "../misc/PolynomialDerivative.cpp"
 
+#include "../fb/CodingSystem.cpp"
+#include "../fb/CharactersSubstitution.cpp"
+
 #endif /* HEADERS_H_ */
