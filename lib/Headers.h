@@ -23,6 +23,7 @@
 
 #include "../misc/PermuteAllSequences.cpp"
 #include "../misc/PolynomialDerivative.cpp"
+#include "../misc/PrintAllValidCombinationsOfBrackets.cpp"
 
 #include "../fb/CodingSystem.cpp"
 #include "../fb/CharactersSubstitution.cpp"
