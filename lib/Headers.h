@@ -8,6 +8,8 @@
 #ifndef HEADERS_H_
 #define HEADERS_H_
 
+#include "../array/FindKthSmallestNumber.cpp"
+
 #include "../dynamic programming/MakingChange.cpp"
 #include "../dynamic programming/MaxIncreasingSubSeq.cpp"
 
@@ -21,5 +23,6 @@
 
 #include "../fb/CodingSystem.cpp"
 #include "../fb/CharactersSubstitution.cpp"
+
 
 #endif /* HEADERS_H_ */
