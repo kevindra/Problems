@@ -9,6 +9,7 @@
 #define HEADERS_H_
 
 #include "../array/FindKthSmallestNumber.cpp"
+#include "../array/CountOccurancesOfANumInSortedArray.cpp"
 
 #include "../linkedlist/ReverseLinkedList.cpp"
 
