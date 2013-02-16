@@ -12,6 +12,7 @@
 #include "../array/CountOccurancesOfANumInSortedArray.cpp"
 #include "../array/PrintAllSubsets.cpp"
 #include "../array/PrintAllPairsSumToM.cpp"
+#include "../array/PrintAllMakingChangeSet.cpp"
 
 #include "../linkedlist/ReverseLinkedList.cpp"
 

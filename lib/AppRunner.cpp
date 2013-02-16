@@ -6,16 +6,12 @@
  */
 
 #include "Headers.h"
-#include <iostream>
-#include <string>
-#include <map>
-#include <vector>
 
 using namespace std;
 
 #if 1
 int main() {
-	PrintAllPairsSumToM app;
+	PrintAllMakingChangeSet app;
 	app.run();
 	return 0;
 }
