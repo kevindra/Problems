@@ -21,6 +21,7 @@
 
 #include "../trees/PhoneBookTrie.cpp"
 #include "../trees/BKTree.cpp"
+#include "../trees/FindClosestBSTNode.cpp"
 
 #include "../string/Permutation.cpp"
 
