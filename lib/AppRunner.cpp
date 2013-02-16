@@ -11,7 +11,7 @@ using namespace std;
 
 #if 1
 int main() {
-	FindRotationIndex app;
+	Print2DSpiral app;
 	app.run();
 	return 0;
 }

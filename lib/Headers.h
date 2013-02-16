@@ -14,6 +14,7 @@
 #include "../array/PrintAllPairsSumToM.cpp"
 #include "../array/PrintAllMakingChangeSet.cpp"
 #include "../array/FindRotationIndex.cpp"
+#include "../array/Print2DSpiral.cpp"
 
 #include "../linkedlist/ReverseLinkedList.cpp"
 
