@@ -13,6 +13,7 @@
 #include "../array/PrintAllSubsets.cpp"
 #include "../array/PrintAllPairsSumToM.cpp"
 #include "../array/PrintAllMakingChangeSet.cpp"
+#include "../array/FindRotationIndex.cpp"
 
 #include "../linkedlist/ReverseLinkedList.cpp"
 
