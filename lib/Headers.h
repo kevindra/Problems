@@ -15,6 +15,7 @@
 #include "../array/PrintAllMakingChangeSet.cpp"
 #include "../array/FindRotationIndex.cpp"
 #include "../array/Print2DSpiral.cpp"
+#include "../array/MaxSubMatrixSum.cpp"
 
 #include "../linkedlist/ReverseLinkedList.cpp"
 

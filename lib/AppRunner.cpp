@@ -11,7 +11,7 @@ using namespace std;
 
 #if 1
 int main() {
-	ExpressionEvaluator app;
+	MaxSubMatrixSum app;
 	app.run();
 	return 0;
 }
