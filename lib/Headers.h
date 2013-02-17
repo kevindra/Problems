@@ -28,6 +28,7 @@
 #include "../trees/ExpressionEvaluator.cpp"
 
 #include "../string/Permutation.cpp"
+#include "../string/LongestCommonSubstring.cpp"
 
 #include "../misc/PermuteAllSequences.cpp"
 #include "../misc/PolynomialDerivative.cpp"

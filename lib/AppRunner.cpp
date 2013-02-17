@@ -11,7 +11,7 @@ using namespace std;
 
 #if 1
 int main() {
-	MaxSubMatrixSum app;
+	LongestCommonSubstring app;
 	app.run();
 	return 0;
 }
