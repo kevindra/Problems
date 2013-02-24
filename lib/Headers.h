@@ -26,6 +26,7 @@
 #include "../trees/BKTree.cpp"
 #include "../trees/FindClosestBSTNode.cpp"
 #include "../trees/ExpressionEvaluator.cpp"
+#include "../trees/IterativePostOrder.cpp"
 
 #include "../string/Permutation.cpp"
 #include "../string/LongestCommonSubstring.cpp"
