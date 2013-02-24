@@ -11,7 +11,7 @@ using namespace std;
 
 #if 1
 int main() {
-	IterativePostOrder app;
+	FlattenMultiLevelLL app;
 	app.run();
 	return 0;
 }
